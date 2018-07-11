@@ -1,0 +1,11 @@
+c:\users\ss0055721\source\repos\WebCoreSample\WebCoreSample\bin\Debug\netcoreapp2.0\WebCoreSample.deps.json
+c:\users\ss0055721\source\repos\WebCoreSample\WebCoreSample\bin\Debug\netcoreapp2.0\WebCoreSample.runtimeconfig.json
+c:\users\ss0055721\source\repos\WebCoreSample\WebCoreSample\bin\Debug\netcoreapp2.0\WebCoreSample.runtimeconfig.dev.json
+c:\users\ss0055721\source\repos\WebCoreSample\WebCoreSample\bin\Debug\netcoreapp2.0\WebCoreSample.dll
+c:\users\ss0055721\source\repos\WebCoreSample\WebCoreSample\bin\Debug\netcoreapp2.0\WebCoreSample.pdb
+c:\users\ss0055721\source\repos\WebCoreSample\WebCoreSample\obj\Debug\netcoreapp2.0\WebCoreSample.csprojAssemblyReference.cache
+c:\users\ss0055721\source\repos\WebCoreSample\WebCoreSample\obj\Debug\netcoreapp2.0\WebCoreSample.csproj.CoreCompileInputs.cache
+c:\users\ss0055721\source\repos\WebCoreSample\WebCoreSample\obj\Debug\netcoreapp2.0\WebCoreSample.AssemblyInfoInputs.cache
+c:\users\ss0055721\source\repos\WebCoreSample\WebCoreSample\obj\Debug\netcoreapp2.0\WebCoreSample.AssemblyInfo.cs
+c:\users\ss0055721\source\repos\WebCoreSample\WebCoreSample\obj\Debug\netcoreapp2.0\WebCoreSample.dll
+c:\users\ss0055721\source\repos\WebCoreSample\WebCoreSample\obj\Debug\netcoreapp2.0\WebCoreSample.pdb
